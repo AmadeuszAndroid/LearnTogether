@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Ucz się razem</string>
+    <string name="title">Samouczek Jetpack Compose</string>
 </resources>
