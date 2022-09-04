@@ -1,4 +1,6 @@
 <resources>
     <string name="app_name">Ucz się razem</string>
-    <string name="title">Samouczek Jetpack Compose</string>
+    <string name="text_1">Samouczek Jetpack Compose</string>
+    <string name="text_2">Jetpack Compose to nowoczesny zestaw narzędzi do tworzenia natywnego interfejsu użytkownika systemu Android. Compose upraszcza i przyspiesza tworzenie interfejsu użytkownika w systemie Android dzięki mniejszej ilości kodu, potężnym narzędziom i intuicyjnym interfejsom API Kotlin.</string>
+    <string name="text_3">W tym samouczku zbudujesz prosty komponent interfejsu użytkownika z funkcjami deklaratywnymi. Wywołujesz funkcje Compose, aby powiedzieć, jakie elementy chcesz, a kompilator Compose zajmie się resztą. Compose opiera się na funkcjach komponujących. Te funkcje pozwalają programowo zdefiniować interfejs użytkownika aplikacji, ponieważ pozwalają opisać, jak powinien wyglądać i dostarczać zależności danych, zamiast skupiać się na procesie budowy interfejsu użytkownika, takim jak inicjowanie elementu, a następnie dołączanie go do rodzica. Aby utworzyć funkcję komponowaną, należy dodać adnotację @Compose do nazwy funkcji.</string>
 </resources>
